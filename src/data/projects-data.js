@@ -1,10 +1,10 @@
 export const projectsData = [
   {
     img: "/img/home-decor-1.jpeg",
-    title: "Modern",
+    title: "Uber waiting area- app designing",
     tag: "Project #1",
     description:
-      "As Uber works through a huge amount of internal management turmoil.",
+      "As Uber waiting area, app integration.",
     route: "/dashboard/profile",
     members: [
       { img: "/img/team-1.jpeg", name: "Romina Hadid" },
@@ -15,10 +15,10 @@ export const projectsData = [
   },
   {
     img: "/img/home-decor-2.jpeg",
-    title: "Scandinavian",
+    title: "Paint the imagination",
     tag: "Project #2",
     description:
-      "Music is something that every person has his or her own specific opinion about.",
+      "Created an AR VR project to help customize homes for Asian Paints",
     route: "/dashboard/profile",
     members: [
       { img: "/img/team-4.jpeg", name: "Alexander Smith" },
@@ -32,7 +32,7 @@ export const projectsData = [
     title: "Minimalist",
     tag: "Project #3",
     description:
-      "Different people have different taste, and various types of music.",
+      "Helping create portfolios for art school clients",
     route: "/dashboard/profile",
     members: [
       { img: "/img/team-1.jpeg", name: "Romina Hadid" },
@@ -42,11 +42,11 @@ export const projectsData = [
     ],
   },
   {
-    img: "/img/home-decor-4.jpeg",
-    title: "Gothic",
+    img: "/img/home-decor-2.jpeg",
+    title: "",
     tag: "Project #4",
     description:
-      "Why would anyone pick blue over pink? Pink is obviously a better color.",
+      "ABC",
     route: "/dashboard/profile",
     members: [
       { img: "/img/team-4.jpeg", name: "Alexander Smith" },

@@ -17,14 +17,14 @@ export function Tables() {
       <Card>
         <CardHeader variant="gradient" color="blue" className="mb-8 p-6">
           <Typography variant="h6" color="white">
-            Authors Table
+            Track payments
           </Typography>
         </CardHeader>
         <CardBody className="overflow-x-scroll px-0 pt-0 pb-2">
           <table className="w-full min-w-[640px] table-auto">
             <thead>
               <tr>
-                {["author", "function", "status", "employed", ""].map((el) => (
+                {["name", "designation", "status", "payment due", ""].map((el) => (
                   <th
                     key={el}
                     className="border-b border-blue-gray-50 py-3 px-5 text-left"
@@ -94,7 +94,7 @@ export function Tables() {
                           href="#"
                           className="text-xs font-semibold text-blue-gray-600"
                         >
-                          Edit
+                          Message
                         </Typography>
                       </td>
                     </tr>
@@ -108,14 +108,14 @@ export function Tables() {
       <Card>
         <CardHeader variant="gradient" color="blue" className="mb-8 p-6">
           <Typography variant="h6" color="white">
-            Projects Table
+            Your Projects
           </Typography>
         </CardHeader>
         <CardBody className="overflow-x-scroll px-0 pt-0 pb-2">
           <table className="w-full min-w-[640px] table-auto">
             <thead>
               <tr>
-                {["companies", "members", "budget", "completion", ""].map(
+                {["companies", "employer", "budget", "completion", ""].map(
                   (el) => (
                     <th
                       key={el}

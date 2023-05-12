@@ -40,13 +40,13 @@ export function Profile() {
               />
               <div>
                 <Typography variant="h5" color="blue-gray" className="mb-1">
-                  Richard Davis
+                  Austin Andrews
                 </Typography>
                 <Typography
                   variant="small"
                   className="font-normal text-blue-gray-600"
                 >
-                  CEO / Co-Founder
+                  Creative Designer/ Content Writer
                 </Typography>
               </div>
             </div>
@@ -99,11 +99,11 @@ export function Profile() {
             </div>
             <ProfileInfoCard
               title="Profile Information"
-              description="Hi, I'm Alec Thompson, Decisions: If you can't decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
+              description="Hi, I'm Austin, Decisions: If you can't decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
               details={{
-                "first name": "Alec M. Thompson",
+                "first name": "Austin Andrews",
                 mobile: "(44) 123 1234 123",
-                email: "alecthompson@mail.com",
+                email: "austinwrites@mail.com",
                 location: "USA",
                 social: (
                   <div className="flex items-center gap-4">
