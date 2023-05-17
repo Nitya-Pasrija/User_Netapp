@@ -1,15 +1,15 @@
 export const authorsTableData = [
   {
     img: "/img/team-2.jpeg",
-    name: "Ryan Thompson",
-    email: "ryan@gmail.com",
+    name: "Aaryam Sharma",
+    email: "rym@gmail.com",
     job: ["Manager", "Slack"],
     online: true,
     date: "23/04/23",
   },
   {
     img: "/img/team-1.jpeg",
-    name: "Romina Hadid",
+    name: "Himanshi Hadid",
     email: "hadid@gmail.com",
     job: ["Programator", "Atlassian"],
     online: false,
@@ -25,7 +25,7 @@ export const authorsTableData = [
   },
   {
     img: "/img/team-3.jpeg",
-    name: "Jessica Doe",
+    name: "Jessica ",
     email: "jessica@gmail.com",
     job: ["Programator", "Spotify"],
     online: true,
@@ -33,8 +33,8 @@ export const authorsTableData = [
   },
   {
     img: "/img/bruce-mars.jpeg",
-    name: "Bruce Mars",
-    email: "bruce@gmail.com",
+    name: "Samiksha Jain",
+    email: "samiksha@gmail.com",
     job: ["Manager", "Executive"],
     online: false,
     date: "04/10/23",

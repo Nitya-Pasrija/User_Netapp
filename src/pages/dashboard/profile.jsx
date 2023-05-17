@@ -40,7 +40,7 @@ export function Profile() {
               />
               <div>
                 <Typography variant="h5" color="blue-gray" className="mb-1">
-                  Austin Andrews
+                  Ayesha Tiwari
                 </Typography>
                 <Typography
                   variant="small"
@@ -99,12 +99,12 @@ export function Profile() {
             </div>
             <ProfileInfoCard
               title="Profile Information"
-              description="Hi, I'm Austin, Decisions: If you can't decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
+              description="Hi, I'm Ayesha, Decisions: If you can't decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
               details={{
-                "first name": "Austin Andrews",
-                mobile: "(44) 123 1234 123",
-                email: "austinwrites@mail.com",
-                location: "USA",
+                "first name": "Ayesha Tiwari",
+                mobile: "(+91) 8989898989",
+                email: "ayeshawrites@mail.com",
+                location: "India",
                 social: (
                   <div className="flex items-center gap-4">
                     <i className="fa-brands fa-facebook text-blue-700" />
